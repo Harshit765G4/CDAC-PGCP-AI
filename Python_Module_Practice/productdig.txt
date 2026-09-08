@@ -1,0 +1,35 @@
+                    main()
+                      |
+                      v
+                    menu()
+                      |
+          +-----------+-----------+
+          |           |           |
+          v           v           v
+         ADD         VIEW       SEARCH
+          |           |           |
+          v           v           v
+       append()    print()     results[]
+          |                       |
+          |                       v
+          |                   view_products()
+          |
+          +-----------+-----------+
+                      |
+                      v
+                   UPDATE
+                      |
+                      v
+                 find ID
+                      |
+                modify dictionary
+                      |
+                      v
+                   DELETE
+                      |
+                      v
+                 find ID
+                      |
+                 confirm y/n
+                      |
+                  remove()
