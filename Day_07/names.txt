@@ -1,9 +1,5 @@
-vinod
-kishore
-kiran
-james
-kishore
-praveen
-ravi
-umesh
-kumar
+hello 
+this 
+is 
+file 
+handling
